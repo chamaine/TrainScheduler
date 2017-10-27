@@ -1,0 +1,49 @@
+
+body {
+	width:900px%;
+	background-color: #fcecd8;
+}
+
+
+h1 {
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+	margin-top: 90px;
+	color: #000000;
+}
+
+h3 {
+	text-align: center;
+	color: #000000;
+}
+
+.container {
+ 	background-image: url("assets/images/goldcoast.jpeg");
+    width: 700px;
+    height: 300px;
+    background-size: cover;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-content: center;
+
+}
+
+.thead-dark {
+	color: black;
+}
+
+.panel-body {
+	margin-top: 20px;
+	width: 750px
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+.header {
+	margin-bottom: 200px;
+}
+
+.form {
+	width: 700px;
+}
